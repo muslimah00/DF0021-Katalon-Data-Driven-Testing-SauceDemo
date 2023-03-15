@@ -17,29 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://www.saucedemo.com/')
-
-WebUI.setText(findTestObject('Object Repository/S02_Cart/cart02/Page_Swag Labs/input_Swag Labs_user-name'), 'standard_user')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/S02_Cart/cart02/Page_Swag Labs/input_Swag Labs_password'), 'qcu24s4901FyWDTwXGr6XA==')
-
-WebUI.click(findTestObject('Object Repository/S02_Cart/cart02/Page_Swag Labs/input_Swag Labs_login-button'))
-
-WebUI.click(findTestObject('Object Repository/S02_Cart/cart02/Page_Swag Labs/button_Add to cart'))
-
-WebUI.click(findTestObject('Object Repository/S02_Cart/cart02/Page_Swag Labs/button_Add to cart_1'))
-
-WebUI.click(findTestObject('Object Repository/S02_Cart/cart02/Page_Swag Labs/button_Add to cart_1_2'))
-
-WebUI.click(findTestObject('Object Repository/S02_Cart/cart02/Page_Swag Labs/a_3'))
-
-WebUI.click(findTestObject('Object Repository/S02_Cart/cart02/Page_Swag Labs/button_Remove'))
-
-WebUI.click(findTestObject('Object Repository/S02_Cart/cart02/Page_Swag Labs/button_Remove_1'))
-
-WebUI.click(findTestObject('Object Repository/S02_Cart/cart02/Page_Swag Labs/button_Remove_1_2'))
-
-WebUI.closeBrowser()
-
