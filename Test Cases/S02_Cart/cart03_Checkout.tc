@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>vart03_Checkout</name>
+   <name>cart03_Checkout</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>07b96bae-6211-49c8-8b94-301c98fefa61</testCaseGuid>
