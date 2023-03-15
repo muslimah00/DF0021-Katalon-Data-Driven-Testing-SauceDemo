@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that users can add products to the cart</description>
+   <name>cart01_Add product to cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4312ff8-4363-4a45-8669-2533d169462e</testCaseGuid>
+</TestCaseEntity>
