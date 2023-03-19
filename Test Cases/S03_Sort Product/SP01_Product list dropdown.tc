@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>SP04_Price High to Low</name>
+   <name>SP01_Product list dropdown</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>e4494243-0f8e-433e-ac84-d2ce7b039be4</testCaseGuid>
+   <testCaseGuid>20a46414-54a0-4556-b8ed-ccec5115d1e6</testCaseGuid>
 </TestCaseEntity>
