@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="LOG01" time="17.643" tests="1" failures="0" errors="0">
+   <testsuite name="LOG01" tests="1" failures="0" errors="0" time="17.643" skipped="0" timestamp="2023-03-19 21:42:48" hostname="MUSLIMAH - MUSLIMAH" id="Test Suites/S01/LOG01">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\MUSLIMA\\Documents\\GitHub\\DF0021-Katalon-Data-Driven-Testing-SauceDemo\\Reports\\20230319_214231\\S01\\LOG01\\20230319_214231"/>
+         <property name="logFiles" value="C:\\Users\\MUSLIMA\\Documents\\GitHub\\DF0021-Katalon-Data-Driven-Testing-SauceDemo\\Reports\\20230319_214231\\S01\\LOG01\\20230319_214231\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="MUSLIMAH - MUSLIMAH"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.5.208"/>
+         <property name="browser" value="Chrome 111.0.0.0"/>
+         <property name="hostAddress" value="192.168.211.96"/>
+         <property name="sessionId" value="490749f104e91faef95cc21ccab97327"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/S01_Login/LOG01_Login with provided account" time="17.02" classname="Test Cases/S01_Login/LOG01_Login with provided account" status="PASSED">
+         <system-out><![CDATA[2023-03-19 21:42:49 - [TEST_CASE][PASSED] - Test Cases/S01_Login/LOG01_Login with provided account: Test Cases/S01_Login/LOG01_Login with provided account
+
+2023-03-19 21:42:50 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-03-19 21:42:50 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-03-19 21:42:51 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-03-19 21:42:59 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-03-19 21:42:59 - [TEST_STEP][PASSED] - navigateToUrl("https://www.saucedemo.com/"): Navigate to 'https://www.saucedemo.com/' successfully
+
+2023-03-19 21:43:01 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2023-03-19 21:43:01 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/S01_Login/LOG01_Login/Page_Swag Labs/Input Username"), "standard_user"): Text 'standard_user' is set on object 'Object Repository/S01_Login/LOG01_Login/Page_Swag Labs/Input Username'
+
+2023-03-19 21:43:03 - [MESSAGE][PASSED] - Text 'standard_user' is set on object 'Object Repository/S01_Login/LOG01_Login/Page_Swag Labs/Input Username'
+
+2023-03-19 21:43:03 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/S01_Login/LOG01_Login/Page_Swag Labs/Input Password"), "qcu24s4901FyWDTwXGr6XA=="): Text ****** has been set on object 'Object Repository/S01_Login/LOG01_Login/Page_Swag Labs/Input Password'
+
+2023-03-19 21:43:04 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/S01_Login/LOG01_Login/Page_Swag Labs/Input Password'
+
+2023-03-19 21:43:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/S01_Login/LOG01_Login/Page_Swag Labs/button_Login")): Object: 'Object Repository/S01_Login/LOG01_Login/Page_Swag Labs/button_Login' is clicked on
+
+2023-03-19 21:43:05 - [MESSAGE][PASSED] - Object: 'Object Repository/S01_Login/LOG01_Login/Page_Swag Labs/button_Login' is clicked on
+
+2023-03-19 21:43:05 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-03-19 21:43:06 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-03-19 21:42:48 - [TEST_SUITE][PASSED] - LOG01: Test Cases/S01_Login/LOG01_Login with provided account]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

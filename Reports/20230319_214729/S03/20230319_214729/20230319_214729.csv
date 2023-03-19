@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+S03,Chrome 111.0.0.0,,,2023-03-19 21:47:35,2023-03-19 21:53:13,5m - 37.872s,FAILED
+,,,,,,,
+Test Cases/S03_Sort Product/SP01_Product list dropdown,Chrome 111.0.0.0,,,2023-03-19 21:52:58,2023-03-19 21:53:13,14.925s,FAILED
+"openBrowser("""")",Chrome 111.0.0.0,,,2023-03-19 21:52:58,2023-03-19 21:53:02,3.879s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Chrome 111.0.0.0,,,2023-03-19 21:53:02,2023-03-19 21:53:04,1.835s,PASSED
+"setText(findTestObject(""Object Repository/S03_Sort Product/SP01/Page_Swag Labs/Input Username""), ""standard_user"")",Chrome 111.0.0.0,,,2023-03-19 21:53:04,2023-03-19 21:53:13,9.153s,FAILED

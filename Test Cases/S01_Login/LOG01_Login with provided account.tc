@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LOG01_Login with provided account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2624515-6253-4018-9ddf-0168afc77a68</testCaseGuid>
+</TestCaseEntity>
